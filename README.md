@@ -25,3 +25,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabingrz&show_icons=true&locale=en" alt="nabingrz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabingrz&" alt="nabingrz" /></p>
+
+**Pinned Repo**
+
+- 📌 [Grow Up](https://github.com/NabinGrz/GrowUp)
+- 📌 [Crypto Tracker](https://github.com/NabinGrz/CryptoTrackerApp-With-Provider)
+- 📌 [Simple Dictionary App](https://github.com/NabinGrz/FlutterDictionaryAppWithStream)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabingrz&repo=GrowUp&show_owner=false&)](https://github.com/NabinGrz/GrowUp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabingrz&repo=CryptoTrackerApp-With-Provider&show_owner=false)](https://github.com/NabinGrz/CryptoTrackerApp-With-Provider)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabingrz&repo=FlutterDictionaryAppWithStream&show_owner=false)](https://github.com/NabinGrz/FlutterDictionaryAppWithStream)
