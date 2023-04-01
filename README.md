@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nabin-gurung-206ab91b1/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Nabin Gurung" height="30" width="40" /></a>
 <a href="https://facebook.com/people/Nabin-Lama-Gurung/100008596449445/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nabin Lama Gurung" height="30" width="40" /></a>
-<a href="https://instagram.com/nabin.grz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabin.grz" height="30" width="40" /></a>
+<a href="https://instagram.com/nabin.grz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabin_null" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
