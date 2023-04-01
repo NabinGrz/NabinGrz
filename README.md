@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter and DOT NET**
 
-- 💻 I’m currently working at **Kodairy Technologies**
+- 💻 I’m currently working at **Kodairy Technologies(Since 2022 April)**
 
 - 💬 Ask me about **Flutter, DOT NET, C#, Java**
 
@@ -33,6 +33,7 @@
 
 - 📌 [Flutter-and-Google-Maps-Place-API](https://github.com/NabinGrz/Flutter-and-Google-Maps-Place-API)
 - 📌 [Flutter-And-Google-Map-Routes-Between-Two-Points](https://github.com/NabinGrz/Flutter-And-Google-Map-Routes-Between-Two-Points)
+- 📌 [LatLng-TO-Place-In-Google-Map-Flutter](https://github.com/NabinGrz/LatLng-TO-Place-In-Google-Map-Flutter)
 - 📌 [Grow Up](https://github.com/NabinGrz/GrowUp)
 - 📌 [Crypto Tracker](https://github.com/NabinGrz/CryptoTrackerApp-With-Provider)
 - 📌 [Simple Dictionary App](https://github.com/NabinGrz/FlutterDictionaryAppWithStream)
@@ -40,6 +41,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabingrz&repo=Flutter-and-Google-Maps-Place-API&show_owner=false)]([https://github.com/NabinGrz/FlutterDictionaryAppWithStream](https://github.com/NabinGrz/Flutter-and-Google-Maps-Place-API))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabingrz&repo=Flutter-And-Google-Map-Routes-Between-Two-Points&show_owner=false)](https://github.com/NabinGrz/Flutter-And-Google-Map-Routes-Between-Two-Points)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabingrz&repo=LatLng-TO-Place-In-Google-Map-Flutter&show_owner=false)](https://github.com/NabinGrz/LatLng-TO-Place-In-Google-Map-Flutter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabingrz&repo=GrowUp&show_owner=false&)](https://github.com/NabinGrz/GrowUp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabingrz&repo=CryptoTrackerApp-With-Provider&show_owner=false)](https://github.com/NabinGrz/CryptoTrackerApp-With-Provider)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabingrz&repo=FlutterDictionaryAppWithStream&show_owner=false)](https://github.com/NabinGrz/FlutterDictionaryAppWithStream)
