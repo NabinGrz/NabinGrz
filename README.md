@@ -39,7 +39,7 @@
 - 📌 [Simple Dictionary App](https://github.com/NabinGrz/FlutterDictionaryAppWithStream)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabingrz&repo=Flutter-and-Google-Maps-Place-API&show_owner=false)](https://github.com/NabinGrz/Flutter-and-Google-Maps-Place-API))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabingrz&repo=Flutter-and-Google-Maps-Place-API&show_owner=false)](https://github.com/NabinGrz/Flutter-and-Google-Maps-Place-API)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabingrz&repo=Flutter-And-Google-Map-Routes-Between-Two-Points&show_owner=false)](https://github.com/NabinGrz/Flutter-And-Google-Map-Routes-Between-Two-Points)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabingrz&repo=LatLng-TO-Place-In-Google-Map-Flutter&show_owner=false)](https://github.com/NabinGrz/LatLng-TO-Place-In-Google-Map-Flutter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabingrz&repo=GrowUp&show_owner=false&)](https://github.com/NabinGrz/GrowUp)
