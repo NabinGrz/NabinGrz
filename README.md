@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter and DOT NET**
 
-- 💻 I’m currently working at **Kodairy Technologies(Since 2022 April)**
+- 💻 I’m currently working at **Kodairy Technologies(Since 2022 March)**
 
 - 💬 Ask me about **Flutter, DOT NET, C#, Java**
 
