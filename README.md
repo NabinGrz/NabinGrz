@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabingrz&label=Profile%20views&color=0e75b6&style=flat" alt="nabingrz" /> </p>
 
-- 🌱 I’m currently learning **Flutter and DOT NET**
+- 🌱 I'have 3 years of experience in Mobile App Developement using **Flutter**
 
-- 💻 I’m currently working at **Kodairy Technologies(Since 2022 March)**
+- 💻 I’m currently working at **Veda Studios(Since 2024 May)**
 
-- 💬 Ask me about **Flutter, DOT NET, C#, Java**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **lama.gurung.nabin@gmail.com**
 
